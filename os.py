@@ -63,6 +63,7 @@ banco = mysql.connector.connect(
 # 08.726.829/0001-88 Padaria
 
 
+
 def mm2p(milimetros):
     return milimetros / 0.352777
 
