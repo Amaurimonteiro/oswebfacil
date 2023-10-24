@@ -65,6 +65,7 @@ banco = mysql.connector.connect(
 def mm2p(milimetros):
     return milimetros / 0.352777
 
+
 def gerar_pdf_os():
 
     global v_num_os
