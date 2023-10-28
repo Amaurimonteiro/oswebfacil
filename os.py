@@ -8,10 +8,12 @@
 # pip install typing_extensions
 # pip install reportlab
 
+
 # pip install pyinstaller
 # pyinstaller --onefile -w oswebfacil.py
 # pyinstaller os.py
 # cp.bat
+
 # virtualenv oswebfacil
 # oswebfacil/Scripts/Activate
 
