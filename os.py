@@ -18,6 +18,7 @@
 # oswebfacil/Scripts/Activate
 
 
+
 from datetime import datetime
 import mysql.connector
 import requests
